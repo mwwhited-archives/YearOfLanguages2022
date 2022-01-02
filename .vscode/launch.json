@@ -12,10 +12,11 @@
         },
         {
             "type": "java",
-            "name": "Launch App",
+            "name": "Java - Hello World",
             "request": "launch",
             "mainClass": "us.whited.home.App",
-            "projectName": "hello-world"
+            "projectName": "hello-world",
+            "args": "--test \"test argument\""
         }
     ]
 }
